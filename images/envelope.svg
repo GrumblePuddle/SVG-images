@@ -1,0 +1,5 @@
+<svg width="270" height="270" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="envelope"  viewbox="0 0 220 220">
+        <polyline points="10,10 10,100 150,100 150,10 80,55 10,10 150,10" stroke="black" fill="white" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>    
+    </symbol>
+</svg>
